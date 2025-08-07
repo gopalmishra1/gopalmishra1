@@ -1,28 +1,34 @@
-# 👋 Hi, I'm Gopal Kumar Mishra
+# 👾 Gopal Kumar Mishra’s Dev Arena
 
-🎓 M.Tech in Cybersecurity |  🤖 AI/ML Enthusiast |💻 Android & Full-Stack Developer 
-
----
-
-## 🚀 Featured Projects
-
-### [🔍 Resume Scorer Web App](https://resume-scorer-app-chbjk2h5bckzcdb8taxf7w.streamlit.app/)
-- Built using Streamlit + LLM via OpenRouter API
-- Scores and improves resumes based on job descriptions
-- Stack: Python, PDFPlumber, Streamlit, OpenRouter
-
-### [🛡️ Intrusion Detection System](https://github.com/gopalmishra1/-Intrusion-Detection-and-Prevention-for-Zero-Day-and-Ransomware-Attacks)
-- Detects ransomware and zero-day attacks using ML & DL
-- 98.5% accuracy | Tkinter GUI for real-time monitoring
-- Stack: Python, XGBoost, TensorFlow, Scikit-learn
-
-### [🚑 Ambulance Alert Android App](https://github.com/gopalmishra1/Ambulance-Alert-System)
-- Notifies vehicles in ambulance’s path in real-time
-- Stack: Android Studio, Flask, Firebase Cloud Messaging
+🎓 M.Tech Cybersecurity | 🤖 AI/ML Slayer | 💻 Android & Full-Stack Warrior
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Quest Log: Featured Projects
+
+### 🎮 [Resume Scorer Web App](https://resume-scorer-app-chbjk2h5bckzcdb8taxf7w.streamlit.app/)
+- ⚔️ Built with Streamlit + LLM magic via OpenRouter API
+- 🎯 Scores & upgrades your resume for job quests
+- 🛠️ Tech: Python, PDFPlumber, Streamlit, OpenRouter
+
+### 🛡️ [Intrusion Detection System](https://github.com/gopalmishra1/-Intrusion-Detection-and-Prevention-for-Zero-Day-and-Ransomware-Attacks)
+- 🕵️‍♂️ Detects ransomware & zero-day threats with ML sorcery
+- 💥 98.5% accuracy | Real-time Tkinter GUI battleground
+- 🛠️ Tech: Python, XGBoost, TensorFlow, Scikit-learn
+
+### 🚨 [Static Ransomware Detection Dashboard](https://github.com/gopalmishra1/-Static-Ransomware-Detection-Dashboard)
+- 🧩 ML-powered ransomware hunter using PE file artifacts
+- 🔥 Random Forest, XGBoost & Ensemble combos unleashed
+- 🎮 Python + Tkinter offline real-time classification boss fight
+- 📓 Jupyter Notebook scroll with deep insights
+
+### 🚑 [Ambulance Alert Android App](https://github.com/gopalmishra1/Ambulance-Alert-System)
+- 🚨 Alerts vehicles on ambulance’s path — save lives fast!
+- 🛠️ Tech: Android Studio, Flask, Firebase Cloud Messaging
+
+---
+
+## ⚙️ Gear & Weapons (Tech Stack)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)
@@ -32,13 +38,14 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 XP & Stats
 
 ![Gopal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gopalmishra1&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopalmishra1&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Reach Me At
-- 📧 Email: 19gopalkmishra@gmail.com 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gopal-kumar-mishra-b27524326/)
+## 📬 Connect with Me
+
+- 📧 **Email:** 19gopalkmishra@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/gopal-kumar-mishra-b27524326](https://www.linkedin.com/in/gopal-kumar-mishra-b27524326/)
