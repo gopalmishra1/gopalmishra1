@@ -1,34 +1,60 @@
-# 👾 Gopal Kumar Mishra’s Dev Arena
-
-🎓 M.Tech Cybersecurity | 🤖 AI/ML Slayer | 💻 Android & Full-Stack Warrior
 
 ---
 
-## 🎯 Quest Log: Featured Projects
+## Phase 1: Encrypted Chaos ⚡
 
-### 🎮 [Resume Scorer Web App](https://resume-scorer-app-chbjk2h5bckzcdb8taxf7w.streamlit.app/)
-- ⚔️ Built with Streamlit + LLM magic via OpenRouter API
-- 🎯 Scores & upgrades your resume for job quests
-- 🛠️ Tech: Python, PDFPlumber, Streamlit, OpenRouter
+*The digital battlefield is flooded with ransomware, malware, and hidden threats...*
 
-### 🛡️ [Intrusion Detection System](https://github.com/gopalmishra1/-Intrusion-Detection-and-Prevention-for-Zero-Day-and-Ransomware-Attacks)
-- 🕵️‍♂️ Detects ransomware & zero-day threats with ML sorcery
-- 💥 98.5% accuracy | Real-time Tkinter GUI battleground
-- 🛠️ Tech: Python, XGBoost, TensorFlow, Scikit-learn
-
-### 🚨 [Static Ransomware Detection Dashboard](https://github.com/gopalmishra1/-Static-Ransomware-Detection-Dashboard)
-- 🧩 ML-powered ransomware hunter using PE file artifacts
-- 🔥 Random Forest, XGBoost & Ensemble combos unleashed
-- 🎮 Python + Tkinter offline real-time classification boss fight
-- 📓 Jupyter Notebook scroll with deep insights
-
-### 🚑 [Ambulance Alert Android App](https://github.com/gopalmishra1/Ambulance-Alert-System)
-- 🚨 Alerts vehicles on ambulance’s path — save lives fast!
-- 🛠️ Tech: Android Studio, Flask, Firebase Cloud Messaging
+> **Mission:** Hunt down ransomware before it encrypts more data.
 
 ---
 
-## ⚙️ Gear & Weapons (Tech Stack)
+## Phase 2: Decryption Initiated 🔓
+
+*Deploying machine learning models and AI-powered tools to decode the chaos.*
+
+### ⚔️ Arsenal of Tools:
+
+- Random Forest, XGBoost, Ensemble ML models  
+- Python & Tkinter for real-time threat monitoring  
+- Streamlit & LLMs for resume scoring & AI analysis
+
+---
+
+## Phase 3: Clarity & Victory 🎯
+
+*Success! Real-time ransomware detection, resume improvement, and life-saving alerts.*
+
+---
+
+## 🛠️ Battle Log: Featured Projects
+
+### 🕵️‍♂️ Static Ransomware Detection Dashboard  
+*The frontline defender against ransomware using static PE file features.*  
+- ML-powered detection with RF, XGBoost & ensemble models  
+- Offline real-time classification with Python + Tkinter  
+- Jupyter Notebook for deep threat analysis  
+- [Repo Link](https://github.com/gopalmishra1/-Static-Ransomware-Detection-Dashboard)
+
+### 🎯 Resume Scorer Web App  
+*AI tool that evaluates and enhances resumes for job quests.*  
+- Streamlit + LLM via OpenRouter API  
+- PDF parsing & match scoring  
+- [Live Demo](https://resume-scorer-app-chbjk2h5bckzcdb8taxf7w.streamlit.app/)
+
+### 🛡️ Intrusion Detection System  
+*Detects zero-day and ransomware attacks with high accuracy.*  
+- Python ML/DL stack with GUI for real-time monitoring  
+- [Repo Link](https://github.com/gopalmishra1/-Intrusion-Detection-and-Prevention-for-Zero-Day-and-Ransomware-Attacks)
+
+### 🚑 Ambulance Alert Android App  
+*Emergency vehicle alert system for clearing the path in real time.*  
+- Android Studio + Flask + Firebase Cloud Messaging  
+- [Repo Link](https://github.com/gopalmishra1/Ambulance-Alert-System)
+
+---
+
+## ⚙️ Tech Arsenal
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)
@@ -38,14 +64,17 @@
 
 ---
 
-## 📊 XP & Stats
+## 📈 Warzone Stats
 
 ![Gopal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gopalmishra1&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopalmishra1&layout=compact&theme=tokyonight)
 
 ---
 
-## 📬 Connect with Me
+## 📬 Command Center
 
-- 📧 **Email:** 19gopalkmishra@gmail.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/gopal-kumar-mishra-b27524326](https://www.linkedin.com/in/gopal-kumar-mishra-b27524326/)
+- 📧 Email: 19gopalkmishra@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/gopal-kumar-mishra-b27524326](https://www.linkedin.com/in/gopal-kumar-mishra-b27524326/)
+
+---
+
